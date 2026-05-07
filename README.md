@@ -33,10 +33,7 @@ I am a Senior Web Developer with over 10 years of experience in end-to-end web d
 
 ---
 
-## 📂 Featured Projects
-*(You can list your key repositories or websites here)*
-*   **[Project Name]** - A custom WordPress solution focused on [specific goal].
-*   **[Project Name]** - Front-end development using modern CSS architectures.
+## 📂 Featured Projects 
 
 ---
 
